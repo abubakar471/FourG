@@ -1,6 +1,5 @@
 #include<iostream>
-#include "./ab/ab.cpp"
-
+#include "./mushfiq/mushfiq.cpp"
 using namespace std;
 
 int main() {
