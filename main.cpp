@@ -13,6 +13,8 @@ int main() {
     for(auto people : engineers){
         cout << people << endl;
     }
+
+    cout << endl;
     
     return 0;
 }
